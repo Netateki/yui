@@ -1,5 +1,5 @@
 from tkinter import *
-
+#C'est effectivement assez compliqué...
 window = Tk()
 window.title(" Exercice 1111111111111111111")
 window.geometry("500x600")
