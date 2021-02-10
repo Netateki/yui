@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title(" Exercice 1")
+window.title(" Game of life")
 window.geometry("500x600")
 
 WIDTH = 500
