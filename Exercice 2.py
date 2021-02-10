@@ -51,7 +51,7 @@ def line (event) :
                 
         
 
-
+#nadir cv ou quoi
 
         
 
