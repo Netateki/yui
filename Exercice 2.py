@@ -45,19 +45,12 @@ def line (event) :
         c.delete('all')
         b=0
 
-        
 
-
-                
-        
-
-#nadir cv ou quoi
 
         
 
 
-
-#Positionnement 
+ 
 c.grid(column = 0, row = 0)
 n.grid(column = 0, row = 1)
 
