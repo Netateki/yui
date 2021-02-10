@@ -1,7 +1,7 @@
 from tkinter import *
 #C'est effectivement assez compliqué...
 window = Tk()
-window.title(" Jeux")
+window.title(" Jeu")
 window.geometry("500x600")
 window.config(background='red')
 
